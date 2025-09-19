@@ -1,0 +1,51 @@
+2025-09-18 21:08:37,905 - src.mongodb_connection - INFO - Conectando a MongoDB...
+2025-09-18 21:08:39,182 - src.mongodb_connection - INFO - Conexión exitosa a MongoDB - DB: bigdata, Collection: facturacion_datos
+2025-09-18 21:08:39,183 - src.mongodb_connection - ERROR - Error al obtener estadísticas: Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+2025-09-18 21:08:39,227 - src.zip_extractor - INFO - Archivo ZIP válido: D:\VIDEOS CENTRAL 2025\BIG DATA\Archivos csv de facturación-20250918\datos json en zip\Despensa_Natura.zip
+2025-09-18 21:08:39,267 - src.zip_extractor - INFO - Archivo ZIP válido: D:\VIDEOS CENTRAL 2025\BIG DATA\Archivos csv de facturación-20250918\datos json en zip\FrutiBarato.zip
+2025-09-18 21:08:39,317 - src.zip_extractor - INFO - Archivo ZIP válido: D:\VIDEOS CENTRAL 2025\BIG DATA\Archivos csv de facturación-20250918\datos json en zip\MicroMercado_ElMio.zip
+2025-09-18 21:08:39,357 - src.zip_extractor - INFO - Archivo ZIP válido: D:\VIDEOS CENTRAL 2025\BIG DATA\Archivos csv de facturación-20250918\datos json en zip\Supermercado_Central.zip
+2025-09-18 21:08:39,388 - src.zip_extractor - INFO - Archivo ZIP válido: D:\VIDEOS CENTRAL 2025\BIG DATA\Archivos csv de facturación-20250918\datos json en zip\Despensa_Natura.zip
+2025-09-18 21:08:39,954 - src.zip_extractor - INFO - ZIP extraído exitosamente a: ./extracted_files\Despensa_Natura_20250918_210839
+2025-09-18 21:08:57,796 - src.zip_extractor - INFO - Archivos extraídos limpiados: ./extracted_files\Despensa_Natura_20250918_210839
+2025-09-18 21:08:57,797 - src.mongodb_connection - ERROR - Error al insertar múltiples documentos: Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+2025-09-18 21:08:57,797 - __main__ - ERROR - Error al insertar archivos de D:\VIDEOS CENTRAL 2025\BIG DATA\Archivos csv de facturación-20250918\datos json en zip\Despensa_Natura.zip en MongoDB
+2025-09-18 21:08:57,847 - src.zip_extractor - INFO - Archivo ZIP válido: D:\VIDEOS CENTRAL 2025\BIG DATA\Archivos csv de facturación-20250918\datos json en zip\FrutiBarato.zip
+2025-09-18 21:08:58,735 - src.zip_extractor - INFO - ZIP extraído exitosamente a: ./extracted_files\FrutiBarato_20250918_210857
+2025-09-18 21:09:27,490 - src.zip_extractor - INFO - Archivos extraídos limpiados: ./extracted_files\FrutiBarato_20250918_210857
+2025-09-18 21:09:27,491 - src.mongodb_connection - ERROR - Error al insertar múltiples documentos: Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+2025-09-18 21:09:27,491 - __main__ - ERROR - Error al insertar archivos de D:\VIDEOS CENTRAL 2025\BIG DATA\Archivos csv de facturación-20250918\datos json en zip\FrutiBarato.zip en MongoDB
+2025-09-18 21:09:27,551 - src.zip_extractor - INFO - Archivo ZIP válido: D:\VIDEOS CENTRAL 2025\BIG DATA\Archivos csv de facturación-20250918\datos json en zip\MicroMercado_ElMio.zip
+2025-09-18 21:09:28,798 - src.zip_extractor - INFO - ZIP extraído exitosamente a: ./extracted_files\MicroMercado_ElMio_20250918_210927
+2025-09-18 21:09:53,105 - src.zip_extractor - INFO - Archivos extraídos limpiados: ./extracted_files\MicroMercado_ElMio_20250918_210927
+2025-09-18 21:09:53,106 - src.mongodb_connection - ERROR - Error al insertar múltiples documentos: Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+2025-09-18 21:09:53,106 - __main__ - ERROR - Error al insertar archivos de D:\VIDEOS CENTRAL 2025\BIG DATA\Archivos csv de facturación-20250918\datos json en zip\MicroMercado_ElMio.zip en MongoDB
+2025-09-18 21:09:53,163 - src.zip_extractor - INFO - Archivo ZIP válido: D:\VIDEOS CENTRAL 2025\BIG DATA\Archivos csv de facturación-20250918\datos json en zip\Supermercado_Central.zip
+2025-09-18 21:09:54,007 - src.zip_extractor - INFO - ZIP extraído exitosamente a: ./extracted_files\Supermercado_Central_20250918_210953
+2025-09-18 21:10:09,290 - src.zip_extractor - INFO - Archivos extraídos limpiados: ./extracted_files\Supermercado_Central_20250918_210953
+2025-09-18 21:10:09,290 - src.mongodb_connection - ERROR - Error al insertar múltiples documentos: Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+2025-09-18 21:10:09,291 - __main__ - ERROR - Error al insertar archivos de D:\VIDEOS CENTRAL 2025\BIG DATA\Archivos csv de facturación-20250918\datos json en zip\Supermercado_Central.zip en MongoDB
+2025-09-18 21:10:09,391 - src.mongodb_connection - INFO - Conexión a MongoDB cerrada
+2025-09-18 21:11:46,815 - src.mongodb_connection - INFO - Conectando a MongoDB...
+2025-09-18 21:11:48,042 - src.mongodb_connection - INFO - Conexión exitosa a MongoDB - DB: bigdata, Collection: facturacion_datos
+2025-09-18 21:11:48,175 - src.zip_extractor - INFO - Archivo ZIP válido: D:\VIDEOS CENTRAL 2025\BIG DATA\Archivos csv de facturación-20250918\datos json en zip\Despensa_Natura.zip
+2025-09-18 21:11:48,215 - src.zip_extractor - INFO - Archivo ZIP válido: D:\VIDEOS CENTRAL 2025\BIG DATA\Archivos csv de facturación-20250918\datos json en zip\FrutiBarato.zip
+2025-09-18 21:11:48,264 - src.zip_extractor - INFO - Archivo ZIP válido: D:\VIDEOS CENTRAL 2025\BIG DATA\Archivos csv de facturación-20250918\datos json en zip\MicroMercado_ElMio.zip
+2025-09-18 21:11:48,301 - src.zip_extractor - INFO - Archivo ZIP válido: D:\VIDEOS CENTRAL 2025\BIG DATA\Archivos csv de facturación-20250918\datos json en zip\Supermercado_Central.zip
+2025-09-18 21:11:48,328 - src.zip_extractor - INFO - Archivo ZIP válido: D:\VIDEOS CENTRAL 2025\BIG DATA\Archivos csv de facturación-20250918\datos json en zip\Despensa_Natura.zip
+2025-09-18 21:11:48,810 - src.zip_extractor - INFO - ZIP extraído exitosamente a: ./extracted_files\Despensa_Natura_20250918_211148
+2025-09-18 21:12:04,154 - src.zip_extractor - INFO - Archivos extraídos limpiados: ./extracted_files\Despensa_Natura_20250918_211148
+2025-09-18 21:12:07,906 - src.mongodb_connection - INFO - Se insertaron 1144 documentos
+2025-09-18 21:12:07,952 - src.zip_extractor - INFO - Archivo ZIP válido: D:\VIDEOS CENTRAL 2025\BIG DATA\Archivos csv de facturación-20250918\datos json en zip\FrutiBarato.zip
+2025-09-18 21:12:08,760 - src.zip_extractor - INFO - ZIP extraído exitosamente a: ./extracted_files\FrutiBarato_20250918_211207
+2025-09-18 21:12:26,475 - src.zip_extractor - INFO - Archivos extraídos limpiados: ./extracted_files\FrutiBarato_20250918_211207
+2025-09-18 21:12:30,927 - src.mongodb_connection - INFO - Se insertaron 1858 documentos
+2025-09-18 21:12:30,985 - src.zip_extractor - INFO - Archivo ZIP válido: D:\VIDEOS CENTRAL 2025\BIG DATA\Archivos csv de facturación-20250918\datos json en zip\MicroMercado_ElMio.zip
+2025-09-18 21:12:32,082 - src.zip_extractor - INFO - ZIP extraído exitosamente a: ./extracted_files\MicroMercado_ElMio_20250918_211230
+2025-09-18 21:12:53,339 - src.zip_extractor - INFO - Archivos extraídos limpiados: ./extracted_files\MicroMercado_ElMio_20250918_211230
+2025-09-18 21:12:58,047 - src.mongodb_connection - INFO - Se insertaron 2514 documentos
+2025-09-18 21:12:58,092 - src.zip_extractor - INFO - Archivo ZIP válido: D:\VIDEOS CENTRAL 2025\BIG DATA\Archivos csv de facturación-20250918\datos json en zip\Supermercado_Central.zip
+2025-09-18 21:12:59,021 - src.zip_extractor - INFO - ZIP extraído exitosamente a: ./extracted_files\Supermercado_Central_20250918_211258
+2025-09-18 21:13:18,019 - src.zip_extractor - INFO - Archivos extraídos limpiados: ./extracted_files\Supermercado_Central_20250918_211258
+2025-09-18 21:13:19,515 - src.mongodb_connection - INFO - Se insertaron 1879 documentos
+2025-09-18 21:13:22,453 - src.mongodb_connection - INFO - Conexión a MongoDB cerrada
